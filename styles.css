@@ -1,2 +1,29 @@
+.container-fluid{
+    background-color: #d7cfcf;
+    display: flex;
+    flex-direction: column;
+}
 
-/* Your CSS Code here. */
+.flex-item{
+    display: flex;
+    justify-content:center;
+}
+
+
+.row1 img{
+    width:8vw;
+}
+
+.row2 img{
+    width: 16vw;
+}
+
+.row3 img{
+    width: 25vw;
+}
+
+.row4 img{
+    width: 25vw;
+}
+
+
